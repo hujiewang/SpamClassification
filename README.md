@@ -44,9 +44,9 @@
   
   2.Type
   
-    ```
+    
     training
-    ```
+    
     
   in the Octave to train a SVM.
     
@@ -54,8 +54,8 @@
   
   4.Type
   
-    ```
+    
     prediction
-    ```
+    
     
   in the Octave to predict whether an email is a spam or not.
